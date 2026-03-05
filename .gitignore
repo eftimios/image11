@@ -256,3 +256,7 @@ math_score.py
 scripts/lrs/backup_person.json
 scripts/lrs/backup_style.json
 loop.py
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json

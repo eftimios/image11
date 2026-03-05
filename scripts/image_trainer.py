@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Standalone script for image model training (SDXL, FLUX & QWEN-IMAGE, Z-IMGAE)
+Standalone script for image model training (SDXL, FLUX & QWEN-IMAGE, Z-IMGAE) 1
 """
 
 import argparse
